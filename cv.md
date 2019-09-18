@@ -4,3 +4,5 @@
 4. html, css, js, react, git; 
 5. 
 6. I study myself, there is no experience in passing tests and courses. So I want to take the rsschool course completely. 
+7. Lectures CS50, htmlacademy, learnjs 
+8. I had a little practice of English. Only communication at the university and on travel.
